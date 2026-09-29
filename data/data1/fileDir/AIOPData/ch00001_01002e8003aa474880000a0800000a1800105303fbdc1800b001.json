@@ -1,0 +1,46 @@
+{
+	"errorcode":	0,
+	"version":	"2.1.0",
+	"width":	"960",
+	"height":	"544",
+	"frameNum":	0,
+	"timeStamp":	0,
+	"aitype":	1012,
+	"targets":	[],
+	"events":	{
+		"statInfo":	[{
+				"nodeID":	0,
+				"ruleID":	1,
+				"statType":	1073741829,
+				"statParam":	{
+					"regionCount":	{
+						"densityLevel":	0,
+						"densityRatio":	10
+					}
+				},
+				"ruleName":	"规则1"
+			}]
+	},
+	"runtimeInfo":	{
+		"statInfo":	[{
+				"nodeID":	0,
+				"ruleID":	1,
+				"statType":	1073741829,
+				"statParam":	{
+					"regionCount":	{
+						"densityLevel":	0,
+						"densityRatio":	10
+					},
+					"childTargets":	[]
+				}
+			}]
+	},
+	"maskInfo":	{
+		"maskData":	"",
+		"nodeID":	0,
+		"maskChn":	2,
+		"maskWidth":	1280,
+		"maskHeight":	720,
+		"maskLength":	1843200
+	}
+}
